@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Person from './components/Person';
+import SearchParams from './components/SearchParams';
 
 const App = () => {
     return (
-        <div>
-            <h1>React with JSX</h1>
-            <Person name="Ivan" age="33" email="ivan@react.com" />
+        <div className='container'>
+            <h1>Star Wars API Searcher</h1>
+            <SearchParams />
         </div>
     );
 };
