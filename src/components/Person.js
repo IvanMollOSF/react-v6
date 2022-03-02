@@ -1,9 +1,5 @@
 import React from "react";
 
-// const Person = () => {
-//     return React.createElement("h2", { id="person-component-title" }, "Person component");
-// };
-
 const Person = (props) => {
     return (
         <div>
