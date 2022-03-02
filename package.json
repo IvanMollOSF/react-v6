@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IvanMollOSF/react-v6/issues"
   },
-  "homepage": "https://github.com/IvanMollOSF/react-v6#readme"
+  "homepage": "https://github.com/IvanMollOSF/react-v6#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
 }
