@@ -1,3 +1,5 @@
+/* global React ReactDOM */
+
 const App = () => {
     return React.createElement("h1", {}, "Hello World!");
 };
